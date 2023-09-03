@@ -1,4 +1,4 @@
-# PROJECT_Passworrd_Manager
+# Password Manager
 
 This is a secure password management system based on Python. Although the system is relatively secure, I am by no means a security professional so I would be careful when using this is production software.
 
